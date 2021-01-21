@@ -11,3 +11,6 @@ https://github.com/qingkongzhiqian/GPT2-Summary
 
 tf1,gpt2预训练模-文章生成
 https://github.com/EssayKillerBrain/EssayKiller_V2
+
+tf2 + hugging face 简洁明了的使用示范
+https://github.com/mymusise/gpt2-quickly
