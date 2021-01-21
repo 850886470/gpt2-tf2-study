@@ -14,3 +14,6 @@ https://github.com/EssayKillerBrain/EssayKiller_V2
 
 tf2 + hugging face 简洁明了的使用示范
 https://github.com/mymusise/gpt2-quickly
+
+国内框架
+https://github.com/bojone/bert4keras
