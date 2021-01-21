@@ -3,6 +3,9 @@
 tf1版本gpt2的一种预训练模型
 https://github.com/wind91725/gpt2-ml-finetune-/issues/10
 
+
+清华关于nlp研究的官网
+https://cpm.baai.ac.cn/
 tf版本gpt2预训练模型，转化清华开源的模型用
 https://github.com/bojone/CDial-GPT-tf
 
