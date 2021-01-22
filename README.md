@@ -20,6 +20,9 @@ https://github.com/mymusise/gpt2-quickly
 
 国内框架
 https://github.com/bojone/bert4keras
+框架作者的博客
+https://kexue.fm/archives/7867
 
 国外对于gpt2使用的介绍
 https://github.com/minimaxir/gpt-2-simple
+
