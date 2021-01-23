@@ -26,3 +26,7 @@ https://kexue.fm/archives/7867
 国外对于gpt2使用的介绍
 https://github.com/minimaxir/gpt-2-simple
 
+
+
+学习篇：
+https://github.com/apachecn/AiLearning
