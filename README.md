@@ -18,8 +18,13 @@ https://github.com/EssayKillerBrain/EssayKiller_V2
 tf2 + hugging face 简洁明了的使用示范
 https://github.com/mymusise/gpt2-quickly
 
-国内框架
+国内框架1
 https://github.com/bojone/bert4keras
+
+
+国内框架2
+https://github.com/BrikerMan/Kashgari
+
 框架作者的博客
 https://kexue.fm/archives/7867
 
@@ -27,6 +32,13 @@ https://kexue.fm/archives/7867
 https://github.com/minimaxir/gpt-2-simple
 
 
+应用：
+训练平台
+https://openbayes.com/pricing/
+
+
 
 学习篇：
 https://github.com/apachecn/AiLearning
+
+
