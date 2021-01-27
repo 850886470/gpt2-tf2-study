@@ -1,4 +1,4 @@
-## 入门
+# 入门
 
 https://github.com/EssayKillerBrain/EssayKiller_V2  看看大牛操作，无需考虑代码。tf1,gpt2预训练模-文章生成
 
@@ -32,15 +32,15 @@ https://kexue.fm/archives/7867
 https://github.com/minimaxir/gpt-2-simple
 
 
-## 应用
+# 训练
 
 训练平台
 https://openbayes.com/pricing/
 colab
 https://colab.research.google.com/ google提供的免费平台，gpu/tpu（随机分发，都是好配置，远超国内各大平台提供的免费环境。只是要fan qiang）
 
-## 学习：
+# 学习：
 https://github.com/apachecn/AiLearning  还没看
 
-## 有用的操作：
+# 有用的操作：
 https://github.com/850886470/CPM-TF2Transformer  把gpt2中文模型转hugging face
