@@ -1,8 +1,13 @@
-# gpt2-
+# 入门
+
+https://github.com/EssayKillerBrain/EssayKiller_V2  看看大牛操作，无需考虑代码。tf1,gpt2预训练模-文章生成
+
+
+https://github.com/mymusise/gpt2-quickly    tf2 + hugging face 简洁明了的使用示范，高度封装的框架，了解原理
+
 
 tf1版本gpt2的一种预训练模型
 https://github.com/wind91725/gpt2-ml-finetune-/issues/10
-
 
 清华关于nlp研究的官网
 https://cpm.baai.ac.cn/
@@ -12,15 +17,8 @@ https://github.com/bojone/CDial-GPT-tf
 pytorch中文摘要生成
 https://github.com/qingkongzhiqian/GPT2-Summary
 
-tf1,gpt2预训练模-文章生成
-https://github.com/EssayKillerBrain/EssayKiller_V2
-
-tf2 + hugging face 简洁明了的使用示范
-https://github.com/mymusise/gpt2-quickly
-
 国内框架1
 https://github.com/bojone/bert4keras
-
 
 国内框架2
 https://github.com/BrikerMan/Kashgari
@@ -37,8 +35,8 @@ https://github.com/minimaxir/gpt-2-simple
 https://openbayes.com/pricing/
 
 
-
-学习篇：
+学习：
 https://github.com/apachecn/AiLearning
 
-
+进阶：
+https://github.com/850886470/CPM-TF2Transformer  把gpt2中文模型转hugginf face
