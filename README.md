@@ -19,11 +19,13 @@ https://github.com/bojone/CDial-GPT-tf
 pytorch中文摘要生成
 https://github.com/qingkongzhiqian/GPT2-Summary
 
+### keras是趋势，也确实很方便，tf2也是这么推荐的，以下2个国产框架都是基于keras
+
 国内框架1
-https://github.com/bojone/bert4keras
+https://github.com/bojone/bert4keras    这个作者很热情，有微信群可以帮助解答问题
 
 国内框架2
-https://github.com/BrikerMan/Kashgari
+https://github.com/BrikerMan/Kashgari   基于bert4keras又进行了封装
 
 框架作者的博客
 https://kexue.fm/archives/7867
