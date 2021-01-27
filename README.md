@@ -35,9 +35,10 @@ https://github.com/minimaxir/gpt-2-simple
 # 训练
 
 训练平台
-https://openbayes.com/pricing/
+https://openbayes.com/pricing/ 国内的一个平台，界面不错，送一些免费的，只是免费的配置比较低
+
 colab
-https://colab.research.google.com/ google提供的免费平台，gpu/tpu（随机分发，都是好配置，远超国内各大平台提供的免费环境。只是要fan qiang）
+https://colab.research.google.com/ google提供的免费平台，gpu/tpu（随机分发，都是好配置，远超国内各大平台提供的免费环境。要fan qiang）
 
 # 学习：
 https://github.com/apachecn/AiLearning  还没看
