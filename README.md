@@ -4,7 +4,8 @@ https://github.com/EssayKillerBrain/EssayKiller_V2  看看大牛操作，无需�
 
 https://github.com/mymusise/gpt2-quickly    tf2 + hugging face 简洁明了的使用示范，高度封装的框架，了解原理
 
-新人建议直接在hugging face封装的训练框架的基础上开始学习，避免淹没在网上各式各样的写法中
+## 新人建议直接在hugging face封装的训练框架的基础上开始学习，避免淹没在网上各式各样的写法中，心力憔悴。
+## 本人php开发开始学习，我认为这是最快速能够得到成效的途径。也借此能够做出产品
 
 tf1版本gpt2的一种预训练模型
 https://github.com/wind91725/gpt2-ml-finetune-/issues/10
