@@ -42,6 +42,10 @@ https://openbayes.com/pricing/ 国内的一个平台，界面不错，送一些�
 colab
 https://colab.research.google.com/ google提供的免费平台，gpu/tpu（随机分发，都是好配置，远超国内各大平台提供的免费环境。要fan qiang）
 
+gpt2训练 xl（最大规模）所需配置和最低gpu说明
+https://colab.research.google.com/drive/1QE4LVEYITjIkjXxosahHVZPsSHtYZy7x#scrollTo=LdpZQXknFNY3
+You can only use adafactor as an optimizer parameter to train the large and extra-large models, using a Tesla P100 GPU. 
+
 # 学习：
 https://github.com/apachecn/AiLearning  还没看
 
