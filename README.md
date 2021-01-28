@@ -2,7 +2,7 @@
 
 https://github.com/EssayKillerBrain/EssayKiller_V2  看看大牛操作，无需考虑代码，大致了解有个整体印象就行。tf1,gpt2预训练模-文章生成
 
-https://github.com/mymusise/gpt2-quickly    tf2 + hugging face 简洁明了的使用示范，高度封装的框架，了解原理
+https://github.com/mymusise/gpt2-quickly    tf2 + hugging face 简洁明了的使用示范，高度封装的框架，了解训练流程即可
 
 ### 新人建议直接在hugging face封装的训练框架的基础上开始学习，避免淹没在网上各式各样的写法中，心力憔悴。
 ### 本人php开发，转型开始学习nlp，我认为这是最快速能够得到成效的途径。也才可能快速借此能够做出产品。（2个月从0到1）
@@ -30,8 +30,8 @@ https://github.com/BrikerMan/Kashgari   基于bert4keras又进行了封装
 框架作者的博客
 https://kexue.fm/archives/7867
 
-国外对于gpt2使用的介绍
-https://github.com/minimaxir/gpt-2-simple
+国外对于gpt2简化使用的封装，这是和hugging face起到类似功能的，可以参考参考
+https://github.com/minimaxir/gpt-2-simple 
 
 
 # 训练
