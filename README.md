@@ -5,8 +5,6 @@ https://github.com/EssayKillerBrain/EssayKiller_V2  看看大牛操作，无需�
 https://github.com/mymusise/gpt2-quickly    tf2 + hugging face 简洁明了的使用示范，高度封装的框架，了解训练流程即可
 
 ### 新人建议直接在hugging face封装的训练框架的基础上开始学习，避免淹没在网上各式各样的写法中，心力憔悴。
-### 从行政管理专业从零到php开发（3个月），再转型开始学习nlp（2个月）。先了解宏观，再去学习细节，我认为这是最快速能够得到成效的途径。也才可能快速借此能够做出产品。
-### 但是熟悉框架用法之后，应当回过头再去学习参数，框架，甚至算法的原理。这是必须的。
 
 tf1版本gpt2的一种预训练模型
 https://github.com/wind91725/gpt2-ml-finetune-/issues/10
@@ -34,6 +32,7 @@ https://kexue.fm/archives/7867
 https://github.com/minimaxir/gpt-2-simple 
 
 
+
 # 训练
 
 训练平台
@@ -51,3 +50,7 @@ https://github.com/apachecn/AiLearning  还没看
 
 # 有用的操作：
 https://github.com/850886470/CPM-TF2Transformer  把gpt2中文模型转hugging face
+
+
+# 其他中文相关：
+https://github.com/kaonashi-tyc/zi2zi  文字样式风格转变
