@@ -56,4 +56,5 @@ https://github.com/850886470/CPM-TF2Transformer  把gpt2中文模型转hugging f
 https://github.com/kaonashi-tyc/zi2zi  文字样式风格转变
 https://github.com/Morizeyao/GPT2-Chinese  中文示范
 https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life.git  ￥￥
+https://huggingface.co/mymusise 中文易用模型
  
