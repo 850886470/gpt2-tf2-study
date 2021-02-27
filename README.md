@@ -1,6 +1,6 @@
 # 入门
 
-##### https://github.com/EssayKillerBrain/EssayKiller_V2  看看大牛操作，无需考虑代码，大致了解有个整体印象就行。tf1,gpt2预训练模-文章生成
+#### https://github.com/EssayKillerBrain/EssayKiller_V2  看看大牛操作，无需考虑代码，大致了解有个整体印象就行。tf1,gpt2预训练模-文章生成
 
 #####https://github.com/mymusise/gpt2-quickly    tf2 + hugging face 简洁明了的使用示范，高度封装的框架，了解训练流程即可
 
