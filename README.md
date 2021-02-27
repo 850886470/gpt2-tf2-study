@@ -59,4 +59,5 @@ https://huggingface.co/mymusise 中文易用模型
 
 #图片处理
 https://github.com/alievk/avatarify.git 头像动态化
+https://github.com/AliaksandrSiarohin/first-order-model 图像跟随变化
 https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life.git  老照片修复
