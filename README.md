@@ -52,11 +52,11 @@
 
  
 # 其他中文相关：
-####https://github.com/kaonashi-tyc/zi2zi  文字样式风格转变
-####https://github.com/Morizeyao/GPT2-Chinese  中文示范
-####https://huggingface.co/mymusise 中文易用模型
+#### https://github.com/kaonashi-tyc/zi2zi  文字样式风格转变
+#### https://github.com/Morizeyao/GPT2-Chinese  中文示范
+#### https://huggingface.co/mymusise 中文易用模型
 
 # 图片处理
-####https://github.com/alievk/avatarify.git 头像动态化
-####https://github.com/AliaksandrSiarohin/first-order-model 图像跟随变化
-####https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life.git  老照片修复
+#### https://github.com/alievk/avatarify.git 头像动态化
+#### https://github.com/AliaksandrSiarohin/first-order-model 图像跟随变化
+#### https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life.git  老照片修复
