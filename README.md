@@ -11,6 +11,8 @@
 
 #### 清华关于nlp研究的官网
 #### https://cpm.baai.ac.cn/
+#### https://github.com/TsinghuaAI/CPM-Generate
+
 #### tf版本gpt2预训练模型，转化清华开源的模型用
 #### https://github.com/bojone/CDial-GPT-tf
 #### pytorch中文摘要生成
