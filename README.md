@@ -62,3 +62,6 @@
 #### https://github.com/alievk/avatarify.git 头像动态化
 #### https://github.com/AliaksandrSiarohin/first-order-model 图像跟随变化
 #### https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life.git  老照片修复
+#### https://mp.weixin.qq.com/s/5CeCoDht2BlVcYoZ6UJrsw github国内加速
+#### https://github.com/DDemmer1/ai-background-remove 图片背景消除-示范
+#### https://github.com/facebookresearch/detectron2 图片背景消除-官方
