@@ -66,6 +66,7 @@
 #### https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life.git  老照片修复
 #### https://github.com/DDemmer1/ai-background-remove 图片背景消除-示范
 #### https://github.com/facebookresearch/detectron2 图片背景消除-官方
+#### https://github.com/jantic/DeOldify 照片上色
 
 
 
