@@ -57,11 +57,16 @@
 #### https://github.com/kaonashi-tyc/zi2zi  文字样式风格转变
 #### https://github.com/Morizeyao/GPT2-Chinese  中文示范
 #### https://huggingface.co/mymusise 中文易用模型
+#### https://mp.weixin.qq.com/s/5CeCoDht2BlVcYoZ6UJrsw github国内加速
+
 
 # 图片处理
-#### https://github.com/alievk/avatarify.git 头像动态化
-#### https://github.com/AliaksandrSiarohin/first-order-model 图像跟随变化
+#### https://github.com/alievk/avatarify.git 头像动态化-摄像头版本
+#### https://github.com/AliaksandrSiarohin/first-order-model 头像动态化-官方
 #### https://github.com/microsoft/Bringing-Old-Photos-Back-to-Life.git  老照片修复
-#### https://mp.weixin.qq.com/s/5CeCoDht2BlVcYoZ6UJrsw github国内加速
 #### https://github.com/DDemmer1/ai-background-remove 图片背景消除-示范
 #### https://github.com/facebookresearch/detectron2 图片背景消除-官方
+
+
+
+
